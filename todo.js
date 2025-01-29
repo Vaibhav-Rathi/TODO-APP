@@ -9,7 +9,7 @@ async function onClickHandler() {
         const taskElement = document.createElement("div");
         taskElement.className = "taskItem";
 
-        const taskText = document.createElement("textarea");
+        const taskText = document.createElement("span");
         taskText.textContent = taskValue;
         taskText.className = "taskText";
 
