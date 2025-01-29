@@ -30,6 +30,12 @@
     max-width: 300px;
 }
 
+.heading{
+    display: flex;
+    justify-content: center;
+    color:#333;
+}
+
 .innerContainer2 {
     display: flex;
     justify-content: center;
